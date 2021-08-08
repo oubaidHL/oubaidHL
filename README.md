@@ -14,7 +14,7 @@
 [<img align="left" alt="DiGiMaN | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram]
 [<img align="left" alt="DiGiMaN | Skype" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Skype-icon-new.png" />][skype]
 [<img align="left" alt="DiGiMaN | YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/youtube_logo_icon_147199.png" />][youtube]
-[<img align="left" alt="DiGiMaN | Twitter" width="22px" src="https://www.soroptimistinternational.org/wp-content/uploads/2020/03/251-2517877_tweet-twitter-icon-icon-chirrup-icon-icon-twitter-png-format-twitter-logo.jpg" />][twitter]
+[<img align="left" alt="DiGiMaN | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/124/124021.png" />][twitter]
 
 <br />
 
