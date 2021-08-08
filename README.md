@@ -1,5 +1,5 @@
 
-## I'm a Fresh Graduate Student, Developer, and a Systems and Services Administrator !!
+## I'm a Fresh Graduate Student, Developer and a Systems and Services Administrator !!
 
 - 🔭 I’m looking for work-study training
 - 🌱 I’m currently learning everything 🤣
