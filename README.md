@@ -13,8 +13,8 @@
 [<img align="left" alt="DiGiMaN | LinkedIn" width="22px" src="https://www.portlarochelle.com/wp-content/uploads/2019/03/linkedin.png" />][linkedin]
 [<img align="left" alt="DiGiMaN | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram]
 [<img align="left" alt="DiGiMaN | Skype" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Skype-icon-new.png" />][skype]
-[<img align="left" alt="DiGiMaN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="DiGiMaN | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="DiGiMaN | YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/youtube_logo_icon_147199.png" />][youtube]
+[<img align="left" alt="DiGiMaN | Twitter" width="22px" src="https://www.soroptimistinternational.org/wp-content/uploads/2020/03/251-2517877_tweet-twitter-icon-icon-chirrup-icon-icon-twitter-png-format-twitter-logo.jpg" />][twitter]
 
 <br />
 
@@ -43,3 +43,4 @@
 [facebook]: https://facebook.com/oubaid.hlaimi
 [instagram]: https://instagram.com/oubaidhex
 [linkedin]: https://linkedin.com/in/oubaidhlaimi
+[skype]: https://join.skype.com/invite/pxp0xcNR5JOV
