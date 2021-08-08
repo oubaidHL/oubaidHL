@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="DiGiMaN | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="DiGiMaN | Facebook" width="22px" src="https://cdn.icon-icons.com/icons2/901/PNG/512/facebook_icon-icons.com_69263.png" />][facebook]
 [<img align="left" alt="DiGiMaN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DiGiMaN | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="DiGiMaN | Skype" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Skype-icon-new.png" />][skype]
