@@ -10,11 +10,12 @@
 ### Connect with me:
 
 [<img align="left" alt="DiGiMaN | Facebook" width="22px" src="https://cdn.icon-icons.com/icons2/901/PNG/512/facebook_icon-icons.com_69263.png" />][facebook]
-[<img align="left" alt="DiGiMaN | LinkedIn" width="22px" src="https://www.portlarochelle.com/wp-content/uploads/2019/03/linkedin.png" />][linkedin]
+[<img align="left" alt="DiGiMaN | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/124/124021.png" />][twitter]
 [<img align="left" alt="DiGiMaN | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram]
 [<img align="left" alt="DiGiMaN | Skype" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Skype-icon-new.png" />][skype]
 [<img align="left" alt="DiGiMaN | YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/youtube_logo_icon_147199.png" />][youtube]
-[<img align="left" alt="DiGiMaN | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/124/124021.png" />][twitter]
+[<img align="left" alt="DiGiMaN | LinkedIn" width="22px" src="https://www.portlarochelle.com/wp-content/uploads/2019/03/linkedin.png" />][linkedin]
+
 
 <br />
 
