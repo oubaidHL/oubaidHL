@@ -39,7 +39,7 @@
 ---
 
 [youtube]: https://www.youtube.com/channel/UC0pR5D5hdfCnErnSms4xKZw
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/oubaidhlaimi
 [facebook]: https://facebook.com/oubaid.hlaimi
 [instagram]: https://instagram.com/oubaidhex
 [linkedin]: https://linkedin.com/in/oubaidhlaimi
