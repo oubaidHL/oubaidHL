@@ -4,7 +4,7 @@
 
 If you find this project helpful and would like to support its development, you can make a donation via PayPal. Any amount is greatly appreciated!
 
-[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=ATBLV3RX6DZFU)
+[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://gateway.konnect.network/me/NETWORKini)
 
 Your contribution will go towards [briefly mention how the donations will be used or the purpose of the funds].
 
