@@ -1,12 +1,10 @@
-### Hi there 👋
-- 💬 You can send me a message [here](https://www.linkedin.com/in/oubaidhlaimi/) or [there](https://www.facebook.com/oubaid.hlaimi/)
-## Support
+### Hi there 👋  
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/oubaidhlaimi/) or [Facebook](https://www.facebook.com/oubaid.hlaimi/) for any inquiries or collaboration opportunities.  
 
-If you find this project helpful and would like to support its development, you can make a donation via PayPal. Any amount is greatly appreciated!
+## Support  
+
+If you find this project helpful and would like to support its ongoing development, you can make a donation via PayPal. Your contribution, no matter the amount, is greatly appreciated!
 
 [![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://gateway.konnect.network/me/NETWORKini)
 
-Your contribution will go towards [briefly mention how the donations will be used or the purpose of the funds].
-
-Thank you for your support!
-
+All donations will go towards fueling my coding sessions with pizza and coffee! 🍕☕
