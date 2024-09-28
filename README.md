@@ -3,7 +3,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/oubaidhla
 
 ## Support  
 
-If you find this project helpful and would like to support its ongoing development, you can make a donation via PayPal. Your contribution, no matter the amount, is greatly appreciated!
+If you find my Portfolio helpful and would like to support its ongoing development, you can make a donation via PayPal. Your contribution, no matter the amount, is greatly appreciated!
 
 [![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://gateway.konnect.network/me/NETWORKini)
 
