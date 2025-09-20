@@ -7,7 +7,8 @@ If you find my Portfolio helpful and would like to support its ongoing developme
 
 [![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=PVJE22LBFKJ8U)
 OR
-![Scan to donate via PayPal](images/QR_code_paypal.png)
+![Scan to donate via PayPal](QR_code_paypal.png)
 
 All donations will go towards fueling my coding sessions with pizza and coffee! 🍕☕
+
 
